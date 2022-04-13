@@ -1,0 +1,46 @@
+header{
+    height: 30%;
+    margin: 16px;
+    color: aqua;
+    background-color: black;
+    text-align: center;
+}
+body{
+    background-color: rgb(194, 211, 211);
+}
+.menú{
+    background-color:aqua ;
+    color: black;
+    padding: auto;
+    display: flex;
+}
+main{
+    display: flex;
+    justify-content: center;
+    padding: auto;
+    margin: auto;
+    border: 5px solid rgb(217, 217, 235) ;
+}
+.main{
+    height: 100%;
+    text-align: center;
+    background-color: rgb(50, 124, 221);
+    color: black;
+    font-size: 20px;
+    margin: px;
+}
+.aside{
+    height: 100%;
+    text-align: center;
+    background-color: rgb(233, 24, 163);
+    color: black;
+    font-size: 20px;
+    margin: 10px;
+    display: flex;
+}
+footer{
+    height: 80%;
+    text-align: center;
+    color: black;
+    background-color: greenyellow;
+}
